@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class TicTacToe : MonoBehaviour
 {
 
+//testing git
     Boolean checker;
     int plusone;
     public Text btnText1   = null;
